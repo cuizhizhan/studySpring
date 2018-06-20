@@ -14,4 +14,6 @@ public class test1 {
         return id;
     }
 
+    private String name;
+
 }
