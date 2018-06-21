@@ -16,6 +16,5 @@ public class test1 {
 
     private String name;
     private Integer age;
-    private Integer sex1;
-
+    private Integer sex;
 }
